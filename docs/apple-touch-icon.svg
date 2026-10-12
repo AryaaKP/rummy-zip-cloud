@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0369A1"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="#081827"/>
+  
+          <path d="M28 58 C20 58 16 48 24 40 C22 30 34 22 44 26 C50 18 64 18 70 26 C80 24 88 34 84 44 C92 50 86 60 76 58 Z" fill="url(#grad)"/>
+          <text x="52" y="50" font-size="16" font-weight="900" text-anchor="middle" fill="#FFF" font-family="sans-serif">ZIP</text>
+        
+</svg>
